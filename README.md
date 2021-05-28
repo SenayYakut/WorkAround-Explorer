@@ -11,6 +11,7 @@ Install the project locally
 
 ## Usage
 Go to 
+https://senayyakut.github.io/WorkAround-Explorer/
 
 
 ## Contributing
