@@ -13,6 +13,7 @@ Much of the user interface has already been designed by front-end developers, ho
 
 Install the project locally
 ```bash
+https://github.com/SenayYakut/WorkAround-Explorer.git
 
 ```
 
